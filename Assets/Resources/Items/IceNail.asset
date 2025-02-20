@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb10ae37fd6041558b71643cd80a085c, type: 3}
+  m_Name: IceNail
+  m_EditorClassIdentifier: 
+  Name: Ice Nail
+  MaxStack: 8
+  Icon: {fileID: 21300000, guid: 4fa9810734740f94fb1f725e1a1e2550, type: 3}
+  IconRotation: {fileID: 21300000, guid: 2978b1d8c656f434bbae3fe9ab8c1001, type: 3}
+  IconRotation180: {fileID: 21300000, guid: 5b88f14c2a0208c408c369ef630e5467, type: 3}
+  IconRotation270: {fileID: 21300000, guid: 75a069926910367488bd265ae08b840c, type: 3}
+  IconFlip: {fileID: 21300000, guid: 5b88f14c2a0208c408c369ef630e5467, type: 3}
+  IconRotationFlip: {fileID: 21300000, guid: 75a069926910367488bd265ae08b840c, type: 3}
+  IconRotation180Flip: {fileID: 21300000, guid: 4fa9810734740f94fb1f725e1a1e2550, type: 3}
+  IconRotation270Flip: {fileID: 21300000, guid: 2978b1d8c656f434bbae3fe9ab8c1001, type: 3}
+  Description: Bullets of Ice Hammer
+  Shape:
+    details:
+      <array>k__BackingField: 0101
+      <Width>k__BackingField: 1
+      <Height>k__BackingField: 2
+    bounds:
+      X: 0
+      Y: 0
+      Width: 1
+      Height: 2
+  Id:
+    Part1: 3114520086
+    Part2: 1332954717
+    Part3: 1785820566
+    Part4: 3287930549

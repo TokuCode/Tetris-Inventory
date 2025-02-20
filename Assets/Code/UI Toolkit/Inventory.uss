@@ -1,0 +1,34 @@
+.container {
+    flex-grow: 1;
+    width: auto;
+    height: auto;
+    max-width: none;
+    max-height: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.inventory {
+    margin-top : 100px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-grow: 1;
+}
+
+.slotContainer {
+    flex-grow: 1;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+}
+
+.stackCount {
+    position: absolute;
+    color: black;
+    bottom: 0;
+    right: 0;
+    font-size: 18px;
+}
